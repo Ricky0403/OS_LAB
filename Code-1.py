@@ -11,4 +11,3 @@ if pid < 0:
 
 print(f"Hello world!, process_id(pid) = {os.getpid()}")
 sys.exit(0)
-print("Hello")
